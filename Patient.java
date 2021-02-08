@@ -1,4 +1,4 @@
-Class Patient
+class Patient
 {
  import java.util.Scanner*
   private String name;
